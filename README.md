@@ -1,4 +1,4 @@
-- ##👋  
+##👋  
 - Hi, I’m A Young Lim!
 - first of all thanks for your visiting my github. 🥰  
 - 
