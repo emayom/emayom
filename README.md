@@ -2,8 +2,8 @@
 Hi, I’m A Young Lim!
 first of all thanks for your visiting my github. 🥰  
 
-👀 🌱
-I’m  I graduated from Sangmyeong university and majored in Industrial design!
+👀 🌱  
+I’m  I graduated from Sangmyeong university and majored in Industrial design!  
 I’m currently learning FE developmenet.  
 
 you can reach me at ... 👇🏻
