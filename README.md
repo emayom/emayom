@@ -1,6 +1,9 @@
-- 👋 Hi, I’m emayom
+- 👋 Hi,
+- I’m A Young Lim!
+- first of all thanks for your visiting my github. 🥰  
+- 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML / CSS / Javascipt / React !
+- 🌱 I’m currently learning FE developmenet.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
