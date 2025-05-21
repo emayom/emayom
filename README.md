@@ -1,25 +1,13 @@
-### Hi there 👋
+<h2 align="center">Hi there !</h2>
+<!-- <h4 align="left"> 🚀 About Me </h4> -->
 
-<!--
-**Recent articles**
--->
+<h4 align="left">🛠 Languages and Tools</h4>
 
-<div align="center">
-  
-  ### Techs
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-  </div>
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-  </div>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,git,aws,figma&perline=5" />
+  </a>
+</p>
 
 <!--
 **emayom/emayom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,8 +24,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emayom&show_icons=true&theme=radical)
--->
+<h4 align="left">🔥 My Stats</h4>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![Ayoung Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=emayom&show_icons=true&count_private=true&hide=stars&layout=normal)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+<!--
+**Recent articles**
+-->
+<div style="display: none;">
+  <a href="https://komarev.com/ghpvc/?username=emayom">
+  <img src  ="https://komarev.com/ghpvc/?username=emayom">
+  </a>
+  <a href="https://u8views.com/github/emayom">
+  <img src  ="https://u8views.com/api/v1/github/profiles/85545101/views/day-week-month-total-count.svg">
+  </a>
+</div>
